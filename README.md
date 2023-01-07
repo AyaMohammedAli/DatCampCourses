@@ -1,2 +1,4 @@
 # DatCampCourses
+
+<h1>https://nbviewer.org/github/AyaMohammedAli/DatCampCourses/blob/main/plotlyCourse.ipynb</h1>
 Producing high-quality, interactive visualizations historically required complex code, extensive time, and effort. Not anymore. In this course, you’ll learn how to create publication-quality graphs harnessing the power of JavaScript, without leaving the comfort of the Python programming language we all love. You’ll create, style, and customize a variety of stunning, interactive graphs—using datasets ranging from stock prices to basketball team stats, and even penguin beak sizes! Using the Plotly charting library, you’ll also learn to customize interactivity such as hover information, range sliders, custom buttons, and even drop-downs that reactively change the visualization. Are you ready to level-up your data visualization skills?
